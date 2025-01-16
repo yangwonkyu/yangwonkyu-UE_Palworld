@@ -1,0 +1,677 @@
+﻿{
+    "fbx file": {
+        "Version": "1.20.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "D:/model tp sell/current/palword/model (9)/file/fbx file",
+        "Object": {
+            "fbx file": {
+                "Generation": "",
+                "Physics": {
+                    "RL_BoneRoot": {},
+                    "Eyes8": {},
+                    "Eyes7": {},
+                    "Eyes6": {},
+                    "Eyes5": {},
+                    "Eyes4": {},
+                    "Eyes3": {},
+                    "Eyes2": {},
+                    "Eyes1": {},
+                    "body": {}
+                },
+                "Nodes": {
+                    "Eyes8": {
+                        "Meshes": {
+                            "Eyes8": {
+                                "Materials": {
+                                    "Eyes8": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            128.9420623779297,
+                                            148.2518768310547,
+                                            140.2439422607422
+                                        ],
+                                        "Ambient Color": [
+                                            12.973402976989746,
+                                            12.973402976989746,
+                                            12.973402976989746
+                                        ],
+                                        "Specular Color": [
+                                            128.9420623779297,
+                                            148.2518768310547,
+                                            140.2439422607422
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes1/Eyes1/Eyes1_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes8/Eyes8/Eyes8_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "./fbx file.fbm/Eyes8_Opacity.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Eyes7": {
+                        "Meshes": {
+                            "Eyes7": {
+                                "Materials": {
+                                    "Eyes7": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            234.22398376464845,
+                                            167.0586395263672,
+                                            204.5906524658203
+                                        ],
+                                        "Ambient Color": [
+                                            12.973402976989746,
+                                            12.973402976989746,
+                                            12.973402976989746
+                                        ],
+                                        "Specular Color": [
+                                            234.22398376464845,
+                                            167.0586395263672,
+                                            204.5906524658203
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes1/Eyes1/Eyes1_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes7/Eyes7/Eyes7_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "./fbx file.fbm/Eyes7_Opacity.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Eyes6": {
+                        "Meshes": {
+                            "Eyes6": {
+                                "Materials": {
+                                    "Eyes6": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            244.95274353027345,
+                                            226.64231872558595,
+                                            196.6801300048828
+                                        ],
+                                        "Ambient Color": [
+                                            12.973402976989746,
+                                            12.973402976989746,
+                                            12.973402976989746
+                                        ],
+                                        "Specular Color": [
+                                            244.95274353027345,
+                                            226.64231872558595,
+                                            196.6801300048828
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes1/Eyes1/Eyes1_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes6/Eyes6/Eyes6_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "./fbx file.fbm/Eyes6_Opacity.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Eyes5": {
+                        "Meshes": {
+                            "Eyes5": {
+                                "Materials": {
+                                    "Eyes5": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            218.3826904296875,
+                                            203.24400329589845,
+                                            134.10787963867188
+                                        ],
+                                        "Ambient Color": [
+                                            12.973402976989746,
+                                            12.973402976989746,
+                                            12.973402976989746
+                                        ],
+                                        "Specular Color": [
+                                            218.3826904296875,
+                                            203.24400329589845,
+                                            134.10787963867188
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes1/Eyes1/Eyes1_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes5/Eyes5/Eyes5_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "./fbx file.fbm/Eyes5_Opacity.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Eyes4": {
+                        "Meshes": {
+                            "Eyes4": {
+                                "Materials": {
+                                    "Eyes4": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            183.13296508789063,
+                                            167.93447875976563,
+                                            250.47000122070313
+                                        ],
+                                        "Ambient Color": [
+                                            12.973402976989746,
+                                            12.973402976989746,
+                                            12.973402976989746
+                                        ],
+                                        "Specular Color": [
+                                            183.13296508789063,
+                                            167.93447875976563,
+                                            250.47000122070313
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes1/Eyes1/Eyes1_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes4/Eyes4/Eyes4_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "./fbx file.fbm/Eyes4_Opacity.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Eyes3": {
+                        "Meshes": {
+                            "Eyes3": {
+                                "Materials": {
+                                    "Eyes3": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            154.61721801757813,
+                                            207.63819885253907,
+                                            158.85140991210938
+                                        ],
+                                        "Ambient Color": [
+                                            12.973402976989746,
+                                            12.973402976989746,
+                                            12.973402976989746
+                                        ],
+                                        "Specular Color": [
+                                            154.61721801757813,
+                                            207.63819885253907,
+                                            158.85140991210938
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes1/Eyes1/Eyes1_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes3/Eyes3/Eyes3_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "./fbx file.fbm/Eyes3_Opacity.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Eyes2": {
+                        "Meshes": {
+                            "Eyes2": {
+                                "Materials": {
+                                    "Eyes2": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            175.54493713378907,
+                                            249.53636169433595,
+                                            181.9625701904297
+                                        ],
+                                        "Ambient Color": [
+                                            12.973402976989746,
+                                            12.973402976989746,
+                                            12.973402976989746
+                                        ],
+                                        "Specular Color": [
+                                            175.54493713378907,
+                                            249.53636169433595,
+                                            181.9625701904297
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes1/Eyes1/Eyes1_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "./fbx file.fbm/Eyes2_Diffuse.tif",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes2/Eyes2/Eyes2_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "./fbx file.fbm/Eyes2_Opacity.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Eyes1": {
+                        "Meshes": {
+                            "Eyes1": {
+                                "Materials": {
+                                    "Eyes1": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            236.99783325195313,
+                                            248.97705078125,
+                                            194.6183624267578
+                                        ],
+                                        "Ambient Color": [
+                                            12.973402976989746,
+                                            12.973402976989746,
+                                            12.973402976989746
+                                        ],
+                                        "Specular Color": [
+                                            236.99783325195313,
+                                            248.97705078125,
+                                            194.6183624267578
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes1/Eyes1/Eyes1_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/fbx file/fbx file/Eyes1/Eyes1/Eyes1_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "./fbx file.fbm/Eyes1_Opacity.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "body": {
+                        "Meshes": {
+                            "body": {
+                                "Materials": {
+                                    "body": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            204.0,
+                                            204.0,
+                                            204.0
+                                        ],
+                                        "Ambient Color": [
+                                            12.973402976989746,
+                                            12.973402976989746,
+                                            12.973402976989746
+                                        ],
+                                        "Specular Color": [
+                                            204.0,
+                                            204.0,
+                                            204.0
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/fbx file/fbx file/body/body/body_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "./fbx file.fbm/body_Diffuse.tif",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/fbx file/fbx file/body/body/body_roughness.tif",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "./fbx file.fbm/body_Opacity.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Normal": {
+                                                "Texture Path": "./fbx file.fbm/body_Normal.tif",
+                                                "Strength": 29.999998092651368,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
