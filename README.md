@@ -1,4 +1,4 @@
-# 펠월드 모작 (PelWorld Replica)
+# 펠월드 모작 (PalWorld Replica)
 
 Unreal Engine과 C++을 사용해 제작한 펠월드 보스전 모작 프로젝트입니다.  
 플레이어와 펠의 협력을 통해 보스를 클리어하는 것이 주요 목표입니다.
